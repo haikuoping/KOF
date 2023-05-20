@@ -1,11 +1,5 @@
 # JavaScript 制作拳皇网页小游戏
 
-
-
-[toc]
-
-
-
 ## 整体框架：![](https://cdn.acwing.com/media/article/image/2022/09/29/161449_6415f6823f-js%E9%80%BB%E8%BE%91%E5%9B%BE.jpg)
 
 ![](https://cdn.acwing.com/media/article/image/2022/12/18/211775_b650ebfd7e-1.png)
